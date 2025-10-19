@@ -86,10 +86,6 @@ Siempre estoy en busca de nuevos desafíos para seguir aprendiendo y creciendo p
 
 ------------
 
-### 🛠 Mi Actividad Reciente en GitHub
-
-------------
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=AntoGzz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AntoGzz&show_icons=true&locale=en&theme=dark" alt="AntoGzz" /> <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AntoGzz&theme=dark" alt="AntoGzz" /></p>
@@ -112,3 +108,9 @@ Siempre estoy en busca de nuevos desafíos para seguir aprendiendo y creciendo p
 
 <h1><img src="https://wakatime.com/share/@AntoGz/a83d1c27-13e4-41f4-a257-82cd665459e0.svg" width="100%" style="background-color: transparent;"></h1>
 <h1><img src="https://wakatime.com/share/@AntoGz/f1b50b20-de48-49c9-98c2-5812f0ba853c.svg" width="80%" style="background-color: transparent;"></h1>
+
+------------
+
+### 🛠 Mi Actividad Reciente en GitHub
+
+------------
