@@ -21,7 +21,8 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           # Cantidad máxima de actividades a mostrar
-          max_post_count: 7 
+          max_post_count: 10
           # El feed de tu actividad pública de GitHub
           feed_list: "https://github.com/AntoGzz.atom"
           template: "* 🚀 [$title]($url)<br>"
+          comment_tag_name: "BLOG-POST-LIST"
