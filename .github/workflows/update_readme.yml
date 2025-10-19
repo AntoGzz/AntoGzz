@@ -19,6 +19,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          # El título que quieres para la sección de actividad
           COMMIT_MSG: 'docs: update recent github activity'
-          MAX_LINES: 7 # El número de líneas/actividades que quieres mostrar
+          MAX_LINES: 7
+          event_type: PushEvent # <--- AÑADE ESTA LÍNEA
