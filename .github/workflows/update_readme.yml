@@ -1,26 +1,21 @@
-name: Update README with Recent Activity
+name: Update README with Latest Activity
 
 on:
   schedule:
-    # Se ejecuta cada 6 horas
-    - cron: '0 */6 * * *'
+    # Se ejecuta cada hora para mantener el perfil actualizado
+    - cron: '0 */1 * * *'
   workflow_dispatch:
     # Permite ejecutarlo manualmente desde la pestaña "Actions"
 
 jobs:
-  build:
+  update-readme-with-activity:
+    name: Update this repo's README with latest activity
     runs-on: ubuntu-latest
-    name: Update README
-
     steps:
       - uses: actions/checkout@v3
-
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          COMMIT_MSG: 'docs: update recent github activity'
-          MAX_LINES: 7
-          event_type: |
-            PushEvent
-            CreateEvent
+          # Cantidad máxima de actividades a mostrar
+          max_post_count: 7 
+          # El feed de tu actividad pública de GitHub (esto es como un RSS de tu perfil)
+          feed_list: "https://github.com/AntoGzz.atom"
