@@ -1,13 +1,10 @@
-<!--TEMPLATE https://github.com/clcmo/clcmo/tree/main -->
-<!-- https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=antogz&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777 -->
-  
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" style="background-color: transparent;"> Hola, Soy David Quiroz
   <a href="https://github.com/AntoGzz/AntoGzz.github.io"><img src="https://github.com/AntoGzz/AntoGzz.github.io/blob/master/assets/images/profile.webp"  width="15%" align="right" alt="David" style="border-radius:40px;padding-right:20px"/></a>
 </h1>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/david-quiroz-199595166/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:quirozd70@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:quirozd70@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ------------
@@ -31,11 +28,11 @@ Siempre estoy en busca de nuevos desafíos para seguir aprendiendo y creciendo p
 * Desarrollador Web & Móvil <br/>Date Geek C.A.
 * Consultor de Técnologia e Infraestructura <br/>Soluciones en T.I
 * Desarrollador Web <br/>Imagina Colombia C.A.
-  
+
 ### 📚 Cursos & Hobbies
-  
+
 * Estoy aprendiendo sobre arquitecturas, módulos, Flutter y más;
-* Diversos cursos realizados en el área de desarrollo en [Udemy] (https://www.udemy.com);
+* Diversos cursos realizados en el área de desarrollo en [Udemy](https://www.udemy.com);
 * Amo 🥤 Chuches, Refrescos y sobre todo los 🎮 Juegos.
 
 ------------
@@ -81,47 +78,36 @@ Siempre estoy en busca de nuevos desafíos para seguir aprendiendo y creciendo p
   </tr>
 </table>
 
-### 📚 Habilidades
-  
-  [![Planificación](https://img.shields.io/badge/planning-red?style=for-the-badge&logo=Trello&logoColor=white)](#)
-  [![Arquitectura](https://img.shields.io/badge/architetures-grey?style=for-the-badge&logo=Android%20Studio&logoColor=white)](#)
-  [![Trabajo en Equipo](https://img.shields.io/badge/work%20with%20teams-blueviolet?style=for-the-badge&logo=Microsoft%20Teams&logoColor=white)](#)
-
-### Recientemente, trabajo en 
+### Recientemente, trabajo en 
 [![wakatime](https://wakatime.com/badge/user/092711c9-291c-463b-a973-0d93051940d7.svg)](https://wakatime.com/@092711c9-291c-463b-a973-0d93051940d7)
 [![github](https://img.shields.io/github/followers/antogz?logo=github&style=plastic)](https://github.com/antogz?tab=followers)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antogzz&layout=donut)](https://github.com/antogz/github-readme-stats) [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=antogz)](https://github.com/antogz/github-readme-stats)
 
-
-
 ------------
 
 ### 🛠 Mi Actividad Reciente en GitHub
+
+------------
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AntoGzz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AntoGzz&show_icons=true&locale=en&theme=dark" alt="AntoGzz" /> <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AntoGzz&theme=dark" alt="AntoGzz" /></p>
 
-<p></p>
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Estadisticas</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">Estadísticas Adicionales</h3>
 <div align="center">
-<a href="https://github.com/AntoGzz">
-<details>
-  <summary>📊 Mis Estadísticas de GitHub</summary>
-  <p align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntoGzz&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AntoGzz&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntoGzz&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AntoGzz&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntoGzz&theme=2077" height="180em" />
+    <p align="center">
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntoGzz&theme=2077" height="180em" />
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AntoGzz&theme=2077" height="180em" />
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntoGzz&theme=2077" height="180em" />
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AntoGzz&theme=2077" height="180em" />
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntoGzz&theme=2077" height="180em" />
     </p>
-</details>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Gráfico de Actividad:</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="left">⚡Gráfico de Actividad:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AntoGzz&theme=nightowl"/>
 
 <h1><img src="https://wakatime.com/share/@AntoGz/a83d1c27-13e4-41f4-a257-82cd665459e0.svg" width="100%" style="background-color: transparent;"></h1>
