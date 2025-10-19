@@ -110,8 +110,9 @@ Siempre estoy en busca de nuevos desafíos para seguir aprendiendo y creciendo p
 <h1><img src="https://wakatime.com/share/@AntoGz/f1b50b20-de48-49c9-98c2-5812f0ba853c.svg" width="80%" style="background-color: transparent;"></h1>
 
 ------------
-<!--START_SECTION:activity-->
-### 🛠 Mi Actividad Reciente en GitHub
+---
 
-<!--END_SECTION:activity-->
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
 ------------
