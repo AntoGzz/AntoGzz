@@ -24,4 +24,4 @@ jobs:
           max_post_count: 7 
           # El feed de tu actividad pública de GitHub
           feed_list: "https://github.com/AntoGzz.atom"
-          template: "* 🚀 [$title]($url)"
+          template: "* 🚀 [$title]($url)<br>"
