@@ -113,13 +113,5 @@ Siempre estoy en busca de nuevos desafíos para seguir aprendiendo y creciendo p
 
 ### :zap: Actividad Reciente
 
-<!-- BLOG-POST-LIST:START -->
-- [AntoGzz pushed AntoGzz](https://github.com/AntoGzz/AntoGzz/compare/f873eb6fe3...25676aceef)
-- [AntoGzz pushed AntoGzz](https://github.com/AntoGzz/AntoGzz/compare/7ed5cc2a8d...f873eb6fe3)
-- [AntoGzz pushed AntoGzz](https://github.com/AntoGzz/AntoGzz/compare/cbd99883cd...7ed5cc2a8d)
-- [AntoGzz pushed AntoGzz](https://github.com/AntoGzz/AntoGzz/compare/57890b5ecb...cbd99883cd)
-- [AntoGzz pushed AntoGzz](https://github.com/AntoGzz/AntoGzz/compare/bc4898492d...57890b5ecb)
-- [AntoGzz pushed AntoGzz](https://github.com/AntoGzz/AntoGzz/compare/97bdc29041...bc4898492d)
-- [AntoGzz pushed AntoGzz](https://github.com/AntoGzz/AntoGzz/compare/c97b9bbd7e...97bdc29041)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->* 🚀 [AntoGzz pushed AntoGzz](https://github.com/AntoGzz/AntoGzz/compare/1ee90235e7...05dacb7224)* 🚀 [AntoGzz pushed AntoGzz](https://github.com/AntoGzz/AntoGzz/compare/f873eb6fe3...25676aceef)* 🚀 [AntoGzz pushed AntoGzz](https://github.com/AntoGzz/AntoGzz/compare/7ed5cc2a8d...f873eb6fe3)* 🚀 [AntoGzz pushed AntoGzz](https://github.com/AntoGzz/AntoGzz/compare/cbd99883cd...7ed5cc2a8d)* 🚀 [AntoGzz pushed AntoGzz](https://github.com/AntoGzz/AntoGzz/compare/57890b5ecb...cbd99883cd)* 🚀 [AntoGzz pushed AntoGzz](https://github.com/AntoGzz/AntoGzz/compare/bc4898492d...57890b5ecb)* 🚀 [AntoGzz pushed AntoGzz](https://github.com/AntoGzz/AntoGzz/compare/97bdc29041...bc4898492d)<!-- BLOG-POST-LIST:END -->
 ------------
