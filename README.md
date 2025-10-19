@@ -113,5 +113,6 @@ Siempre estoy en busca de nuevos desafíos para seguir aprendiendo y creciendo p
 
 ### :zap: Actividad Reciente
 
-<!--BLOG-POST-LIST:START-->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 ------------
