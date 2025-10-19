@@ -2,20 +2,25 @@ name: Update README with Latest Activity
 
 on:
   schedule:
-    # Se ejecuta cada hora para mantener el perfil actualizado
+    # Se ejecuta cada hora
     - cron: '0 */1 * * *'
   workflow_dispatch:
-    # Permite ejecutarlo manualmente desde la pestaña "Actions"
+    # Permite ejecutarlo manualmente
 
 jobs:
   update-readme-with-activity:
     name: Update this repo's README with latest activity
     runs-on: ubuntu-latest
+    
+    # ESTE ES EL BLOQUE QUE SOLUCIONA EL ERROR 403
+    permissions:
+      contents: write
+      
     steps:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           # Cantidad máxima de actividades a mostrar
           max_post_count: 7 
-          # El feed de tu actividad pública de GitHub (esto es como un RSS de tu perfil)
+          # El feed de tu actividad pública de GitHub
           feed_list: "https://github.com/AntoGzz.atom"
