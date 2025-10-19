@@ -86,7 +86,7 @@ Siempre estoy en busca de nuevos desafíos para seguir aprendiendo y creciendo p
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AntoGzz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AntoGzz&show_icons=true&locale=en&theme=dark" alt="AntoGzz" /> <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AntoGzz&theme=dark" alt="AntoGzz" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AntoGzz&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="AntoGzz" /> <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AntoGzz&theme=dark" alt="AntoGzz" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Estadísticas Adicionales</h3>
@@ -106,6 +106,10 @@ Siempre estoy en busca de nuevos desafíos para seguir aprendiendo y creciendo p
 
 <h1><img src="https://wakatime.com/share/@AntoGz/a83d1c27-13e4-41f4-a257-82cd665459e0.svg" width="100%" style="background-color: transparent;"></h1>
 <h1><img src="https://wakatime.com/share/@AntoGz/f1b50b20-de48-49c9-98c2-5812f0ba853c.svg" width="80%" style="background-color: transparent;"></h1>
+
+<div align="center">
+  <img src="https://github.com/AntoGzz/AntoGzz/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</div>
 
 ------------
 
