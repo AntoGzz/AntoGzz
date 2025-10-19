@@ -21,4 +21,6 @@ jobs:
         with:
           COMMIT_MSG: 'docs: update recent github activity'
           MAX_LINES: 7
-          event_type: PushEvent # <--- AÑADE ESTA LÍNEA
+          event_type: |
+            PushEvent
+            CreateEvent
