@@ -1,16 +1,24 @@
 <!--TEMPLATE https://github.com/clcmo/clcmo/tree/main -->
 <!-- https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=antogz&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777 -->
   
-  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" style="background-color: transparent;"> Hola, Soy David Quiroz 
-  <a href="https://github.com/AntoGzz/AntoGzz.github.io"><img src="https://github.com/AntoGzz/AntoGzz.github.io/blob/master/assets/images/profile.webp"  width="15%" align="right" alt="David" style="border-radius:40px;padding-right:20px"/></a></h1>
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" style="background-color: transparent;"> Hola, Soy David Quiroz
+  <a href="https://github.com/AntoGzz/AntoGzz.github.io"><img src="https://github.com/AntoGzz/AntoGzz.github.io/blob/master/assets/images/profile.webp"  width="15%" align="right" alt="David" style="border-radius:40px;padding-right:20px"/></a>
+</h1>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/david-quiroz-199595166/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:quirozd70@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ------------
 
-### 🦝 Sobre Mi
-  
-Soy un desarrollador independiente con más de 8 años de experiencia en el desarrollo de sitios web, aplicaciones móviles y software. He trabajado con una variedad de clientes, desde pequeñas empresas hasta grandes corporaciones, y he ayudado a crear productos digitales exitosos que han ayudado a mis clientes a alcanzar sus objetivos.
+### 🧔🏻 Sobre Mí
 
-Me considero un desarrollador versátil con una sólida comprensión de las últimas tecnologías. También soy un gran comunicador y tengo la capacidad de trabajar eficazmente con otros. Siempre estoy buscando nuevas oportunidades para aprender y crecer, y estoy comprometido a proporcionar a mis clientes el mejor servicio posible.
+Desarrollador Full-Stack con más de 9 años de experiencia, apasionado por la creación de aplicaciones web y móviles robustas y escalables. Me especializo en transformar ideas en productos digitales exitosos, colaborando con clientes desde startups hasta grandes corporaciones.
+
+Mi stack tecnológico principal incluye **PHP (Laravel)**, **Python (FastAPI)**, **JavaScript/TypeScript** con frameworks como **React** y **Next.js**. En el desarrollo móvil, tengo experiencia con **React Native** y estoy explorando **Flutter**. Además, utilizo **Docker** para crear entornos de desarrollo y despliegue consistentes y eficientes.
+
+Siempre estoy en busca de nuevos desafíos para seguir aprendiendo y creciendo profesionalmente, comprometido con entregar soluciones de alta calidad.
 
 ### 🏫 Educación
 
@@ -32,31 +40,46 @@ Me considero un desarrollador versátil con una sólida comprensión de las últ
 
 ------------
 
-### 🖥️ Tecnologias & Habilidades
+### 💻 Tecnologías & Herramientas
 
-### 📚 Control de Versiones 
-      
-  [![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)](#)
-  [![GitHub](https://img.shields.io/badge/github-purple?style=for-the-badge&logo=github&logoColor=white)](#)
-  [![Jira](https://img.shields.io/badge/jira-blue?style=for-the-badge&logo=Jira&logoColor=white)](#)
-  
-### 📚 Frontend
-  
-  [![Wordpress](https://img.shields.io/badge/wordpress-white?style=for-the-badge&logo=wordpress&logoColor=blue)](#)
-  [![HTML5](https://img.shields.io/badge/html-blue?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/AntoGzz?tab=repositories&q=&type=&language=html&sort=)
-  [![CSS3](https://img.shields.io/badge/css-grey?style=for-the-badge&logo=CSS3&logoColor=white)](https://github.com/AntoGzz?tab=repositories&q=&type=&language=css&sort=) 
-  [![SCSS](https://img.shields.io/badge/scss-violet?style=for-the-badge&logo=Sass&logoColor=white)]()
-  [![BOOSTRAP](https://img.shields.io/badge/boostrap-darkred?style=for-the-badge&logo=Boostrap&logoColor=white)]()
-
-### 📚 Backend
-  
-  [![JavaScript](https://img.shields.io/badge/javascript-darkred?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/AntoGzz?tab=repositories&q=&type=&language=javascript&sort=)
-  [![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=MySQL&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=mysql&sort=) 
-   [![Blade](https://img.shields.io/badge/blade-orange?style=for-the-badge&logo=Blade&logoColor=white)](https://github.com/AntoGzz?tab=repositories&q=&type=&language=blade&sort=) 
-   [![Python](https://img.shields.io/badge/python-green?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/AntoGzz?tab=repositories&q=&type=&language=python&sort=) 
-   [![Lua](https://img.shields.io/badge/lua-brown?style=for-the-badge&logo=Lua&logoColor=white)](https://github.com/AntoGzz?tab=repositories&q=&type=&language=lua&sort=) 
-   [![PHP](https://img.shields.io/badge/php-blue?style=for-the-badge&logo=MySQL&logoColor=white)](https://github.com/AntoGzz?tab=repositories&q=&type=&language=php&sort=) 
-   [![TypeScript](https://img.shields.io/badge/typescript-aquamarine?style=for-the-badge&logo=TypeScript&logoColor=white)](https://github.com/AntoGzz?tab=repositories&q=&type=&language=typescript&sort=) 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Frontend</strong><br><br>
+      <a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+      <a href="#"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Backend</strong><br><br>
+      <a href="#"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+      <a href="#"><img src="https://img.shields.io/badge/fastapi-05998b?style=for-the-badge&logo=fastapi&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Desarrollo Móvil</strong><br><br>
+      <a href="#"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"></a>
+    </td>
+    <td valign="top" width="50%">
+      <strong>DevOps & Herramientas</strong><br><br>
+      <a href="#"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/jira-%230A82FF.svg?style=for-the-badge&logo=jira&logoColor=white"></a>
+    </td>
+  </tr>
+</table>
 
 ### 📚 Habilidades
   
@@ -74,19 +97,7 @@ Me considero un desarrollador versátil con una sólida comprensión de las últ
 
 ------------
 
-### 🛠 Actualizaciones de David
-  
-### En su GitHub
-  
-  <!--RECENT_ACTIVITY:start-->
-  1. ⬆️ Pushed 16 commit(s) a [Portafolio](https://github.com/AntoGzz/AntoGzz.github.io)<br>
-  2. ⬆️ Pushed 1 commit(s) a [Proyecto Universitario](https://github.com/Proyecto-Sigseccaeb/Sigseccaeb_V8)<br>
-  3. ⬆️ Pushed 18 commit(s) a [Wygosites](https://github.com/AntoGzz/project-wygosites)<br>
-  4. ⬆️ Pushed 12 commit(s) a [A&M Abogados](https://github.com/AntoGzz/project-aym)<br>
-  5. ⬆️ Pushed 5 commit(s) a [Nuevamente](https://github.com/imagina/project-montajes)<br>
-  6. ⬆️ Pushed 5 commit(s) a [Montajes](https://github.com/imagina/project-montajes)<br>
-  7. ⬆️ Pushed 5 commit(s) a [New Planet](https://github.com/imagina/project-newplanet)<br>
-  <!--RECENT_ACTIVITY:end-->
+### 🛠 Mi Actividad Reciente en GitHub
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AntoGzz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -94,14 +105,21 @@ Me considero un desarrollador versátil con una sólida comprensión de las últ
 
 <p></p>
 
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Estadisticas</h3>
 <div align="center">
-<a href="https://github.com/itsrusty">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsrusty&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AntoGzz&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntoGzz&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AntoGzz&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntoGzz&theme=2077" height="180em" />
+<a href="https://github.com/AntoGzz">
+<details>
+  <summary>📊 Mis Estadísticas de GitHub</summary>
+  <p align="center">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntoGzz&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AntoGzz&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntoGzz&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AntoGzz&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntoGzz&theme=2077" height="180em" />
+    </p>
+</details>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Gráfico de Actividad:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AntoGzz&theme=nightowl"/>
