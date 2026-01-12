@@ -80,9 +80,12 @@ Siempre estoy en busca de nuevos desafíos para seguir aprendiendo y creciendo p
 
 ### Recientemente, trabajo en 
 [![wakatime](https://wakatime.com/badge/user/092711c9-291c-463b-a973-0d93051940d7.svg)](https://wakatime.com/@092711c9-291c-463b-a973-0d93051940d7)
-[![github](https://img.shields.io/github/followers/antogz?logo=github&style=plastic)](https://github.com/antogz?tab=followers)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antogzz&layout=donut)](https://github.com/antogz/github-readme-stats) [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=antogz)](https://github.com/antogz/github-readme-stats)
+[![github](https://img.shields.io/github/followers/AntoGzz?logo=github&style=plastic)](https://github.com/AntoGzz?tab=followers)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntoGzz&layout=donut)](https://github.com/AntoGzz/github-readme-stats) 
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AntoGzz)](https://github.com/AntoGzz/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AntoGzz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
