@@ -118,5 +118,5 @@ Siempre estoy en busca de nuevos desafíos para seguir aprendiendo y creciendo p
 
 ### :zap: Actividad Reciente
 
-<!-- BLOG-POST-LIST:START -->* 🚀 [AntoGzz starred shadoxxhd/steamworkshopdownloader](https://github.com/shadoxxhd/steamworkshopdownloader)<br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->* 🚀 [AntoGzz starred gartnerleandro/react-native-animated-splash-screen](https://github.com/gartnerleandro/react-native-animated-splash-screen)<br>* 🚀 [AntoGzz pushed AntoGzz](https://github.com/AntoGzz/AntoGzz/compare/912a72d870...82161fc776)<br>* 🚀 [AntoGzz starred shadoxxhd/steamworkshopdownloader](https://github.com/shadoxxhd/steamworkshopdownloader)<br><!-- BLOG-POST-LIST:END -->
 ------------
